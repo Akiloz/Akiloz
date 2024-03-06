@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Akiloz (or @Zolika)
+- 👋 Hi, I’m @Akiloz (or @Zolika, or Bögre)
 - 👀 I’m interested in C# and Python.
 - 🌱 I’m currently learning Python, AI tools and updating my C# skills.
-- 😄 Pronouns: Bögre
+- 😄 Pronouns: he/his
 
 <!---
 Akiloz/Akiloz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
