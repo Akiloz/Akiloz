@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akiloz (or @Zolika, or Bögre)
-- 👀 I’m interested in C# and Python.
+- 👀 I’m interested in C#, Python and AI.
 - 🌱 I’m currently learning Python, AI tools and updating my C# skills.
 - 😄 Pronouns: he/his
 
